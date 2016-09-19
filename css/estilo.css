@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background:skyblue;
+	margin: 20px;
+  	border: red 2px double;
+	padding-top: 10pt; padding-right; 10px; padding-bottom: 110%; padding-left: 2in;
+	border-top-width: 5px; border-left-width: 4pt; border-right-width: thick; border-bottom-width: 2em;
+	color:peach;
+}
+.parrafo {
+	margin-bottom: 5px;
+	text-align: center;
+	color: #90C;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 24px;
+}
+#principal {
+	border: solid 5px #939;
+	height: 300px;
+}
+#horafecha {
+	width: 300px;
+	height: 35px;
+	margin-left: 35%;
+}
+#fecha_hora {
+	width: 180px;
+	height: 35px;
+	color: #F66;
+	margin-left: 40%;
+	margin-top: 5%;
+}
+.nombre {
+	color: #36F;
+	font-family:"MS Serif", "New York", serif;
+	font-size:36px;
+	text-align: center;
+}
+h1 {
+color:Peach;
+}
